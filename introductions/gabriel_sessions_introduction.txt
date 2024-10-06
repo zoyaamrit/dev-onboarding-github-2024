@@ -1,2 +1,1 @@
-Hello incoming JumboCode developers! I'm super excited to get you all up and running with Git, GitHub, and React :) 
-I'm Gabriel, JumboCode's Head of Engineering for 2024-25 and I'll be  here to make sure you have all the technical resources you need to be successful!
+Hi incoming JumboCode developers, I'm Gabriel! I'm super excited to get you all up and running with Git, GitHub, and React. :) 
